@@ -63,6 +63,7 @@
     function keys() {
       return array('MODULE_DIGILETTER_STATUS','MODULE_DIGILETTER_PASSWORD', 'MODULE_DIGILETTER_NO_SPAM');
     }
- 
+function process() {} 
+
   }
 ?>
